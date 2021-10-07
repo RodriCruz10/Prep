@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRToxFCwcukUtONBNAO5fEfoby5cKnu5mUF5g&usqp=CAU);
+    background-repeat:no-repeat;
+    background-position-x:center;
+    background-position-y:center;
+    background-size: 800px;
+    position: absolute;
+    width: 550px;
+    top: 80px;
+    left: 680px;
+    background-color: darkslategray;
+}
+
+.divClass {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 19px;
+}
+p {
+    font-size: 13px;
+}

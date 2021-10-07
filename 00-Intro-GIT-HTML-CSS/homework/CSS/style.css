@@ -1,0 +1,19 @@
+body {
+    background-image: url("https://www.infobae.com/new-resizer/9vzMysoJ_k5RBnmf9UOIfFubdWQ=/1200x900/filters:format(jpg):quality(85)//s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/08/11133705/Parrilla6.jpg");
+}
+#spanId {
+    font-size: 25px;
+    margin: 50px;
+}
+
+#thirdDiv {
+    height: 600px; width: 500px; background-color: rgb(184, 101, 24);
+    padding: 50px;
+    border: rgb(255, 199, 162); border-style:double;
+
+}
+h1, h3, h4, #spanId {
+    font-weight: bold;
+    color: rgb(184, 101, 24);
+    
+}
